@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "igEkiMnMFzgd49pSlEMdhDO8UnseHS0FZG5SeHJgNiw=",
+  "Source": "test",
+  "BasePath": "_content/test",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "test\\wwwroot",
+      "Source": "test",
+      "ContentRoot": "C:\\Users\\Windows 10\\Desktop\\DCIM\\backend\\wwwroot\\",
+      "BasePath": "_content/test",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
